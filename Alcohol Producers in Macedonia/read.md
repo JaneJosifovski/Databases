@@ -1,0 +1,2 @@
+This is a database of all known alcohol producers in the Republic of Macedonia, including wineries, breweries, distilleries, individual farmers producing alcohol and other.
+Iinformation details included about the producers are phone number(s), location(s), owner/contact name, business name, main products, social media and website, as well as other good-to-know information that could be used for all sorts of analysis or simply helping us have more complete rows.
